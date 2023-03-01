@@ -1,0 +1,313 @@
+%
+01	HarmVirtue
+02	HarmVice
+03	FairnessVirtue
+04	FairnessVice
+05	IngroupVirtue
+06	IngroupVice
+07	AuthorityVirtue
+08	AuthorityVice
+09	PurityVirtue
+10	PurityVice
+11	MoralityGeneral
+%
+cuid*	01
+cautela*	01
+simpatiz*	05
+solidári*	01	05	11
+protec*	01
+protet*	01
+proteç*	01
+proteg*	01
+empati*	01
+empát*	01
+pacífic*	01
+pacifi*	01
+paz	01
+segur*	01
+compaix*	01
+guard*	01
+cautelo*	01
+defen*	01
+indefes*	02
+defesa*	01
+benef*	01
+abrig*	01
+refug*	01
+refúg*	01
+escuda*	01
+escudo*	01
+conserv*	01	07	09
+preserv*	01	07	09
+brut*	02
+abus*	02
+insult*	02
+dano*	02
+danifi*	02
+cruel*	02
+detrimento*	02
+prejudi*	02
+esmag*	02
+feri*	02
+harmoni*	11
+harmónico	11
+nociv*	02	11
+mal	11
+aniquil*	02
+ataque*	02
+atac*	02
+agredi*	02
+agress*	02
+assassin*	02
+mata*	02
+sofr*	02
+machuc*	02
+doer*	02
+magoa*	02
+contund*	02
+belic*	02
+bélic*	02
+lut*	02
+combat*	02
+discut*	02	08
+brigar	02
+briga	02
+destr*	02
+assol*	02
+guerr*	02
+abandon*	02	06
+ruína*	02	10
+ruin*	02	10
+arruin*	02	10
+estrag*	02	10
+explor*	02	10
+igua*	03
+equival*	03
+just*	03
+reciproc*	03
+recíproc*	03
+imparcia*	03
+tendenci*	04
+equil*	03
+balance*	03
+balanç*	03
+toler*	03
+razoáv*	03	11
+razoav*	03	11
+constante*	03
+honest*	03	11
+franca	03	11
+franco	03	11
+francamente	03	11
+injust*	04	11
+intoler*	04
+descrimin*	04
+exclu*	04
+desigua*	04
+preconceit*	04
+desonest*	04
+inescrupulos*	02	04
+dissoci*	06
+prefer*	04
+segreg*	04	05
+devoç*	05	07	09
+dedic*	05
+devot*	05	07	09
+naciona*	05
+naç*	05
+patriót*	05
+pátria*	05
+patriot*	05
+panelinha*	05
+coletiv*	05
+coop*	05
+unir*	05
+unid*	05
+associ*	05
+comuni*	05
+colon*	05
+colónia*	05
+familia*	05
+família*	05
+desorde*	08
+junt*	05
+membro*	05
+solidari*	01	05	11
+gremi*	05
+grémio*	05
+alia*	05	07
+conju*	05
+comum*	05
+grup*	05
+agrup*	05
+lea*	05
+indivídu*	06
+individu*	06
+estrangeir*	06
+exter*	06
+inimig*	06	08
+engan*	02	06
+espia*	06
+espião	06
+espion*	06
+imigr*	06
+terror*	06
+trai*	06
+deslea*	06
+desert*	06	08
+autori*	07
+hier*	07
+posto	07
+tradi*	05	09
+orde*	07
+pais	07
+pai	07
+patern*	07
+matern*	07
+líder*	07
+lider*	07
+submiss*	07
+defer*	07
+reverência	07	09
+reveren*	07	09
+vener*	07
+castas	07
+casta	07
+obedi*	07
+permi*	07
+licença	07
+classe*	07
+posiç*	07
+cargo	07
+comand*	07
+supremaci*	04	07
+control*	07
+serv*	07
+mãe*	07
+respeit*	07
+leis	07
+lei	07
+dever	07
+obrig*	07
+honr*	07	11
+lega*	07	11
+legitim*	07	11
+legítim*	07	11
+subver*	08
+rebel*	08
+discord*	06	08
+agit*	08
+insubordin*	08
+desrespeit*	08
+desobed*	08
+obstr*	08
+recus*	08
+ilegal*	08
+protest*	08
+denúncia*	08
+denunci*	08
+desafia*	08
+desafio*	08
+dissid*	06	08
+infie*	06	08	10
+alien*	08
+heresia*	08	10
+herege*	08	10
+herétic*	08	10
+estéreis	09
+estéril	09
+esteril*	09
+sagrad*	09
+sacro	09
+casto	09
+castidade*	09
+igreja	09
+absti*	09
+celibat*	09
+sant*	09
+limp*	09
+pur*	09
+abste*	09
+virge*	09
+virgindade*	09
+auster*	09
+modest*	09
+modést*	09
+límp*	09
+virtuos*	09
+refin*	09
+requint*	09
+elegân*	09
+elegan*	09
+inocênc*	09	11
+inocen*	09	11
+decent*	09	11
+decência*	09	11
+pied*	09	11
+integridade	09	11
+saudáve*	09
+promiscu*	10
+adulter*	10
+adultér*	10
+doen*	10
+náusea*	10
+nausea*	10
+noj*	10
+adoe*	10
+enoj*	10
+manch*	10
+devass*	10
+profan*	10
+prostitu*	10
+obscen*	10
+repel*	10
+repuls*	10
+suja*	10
+sujo*	10
+contágio*	10
+contagi*	10
+peca*	10
+puta	10
+sujeir*	10
+imund*	10
+perver*	10
+tarad*	10
+indecência*	10	11
+indecen*	10	11
+miseráve*	10	11
+desgraç*	10	11
+err*	11
+ideal*	11
+dign*	11
+infrac*	08
+infri*	08
+infrat*	08
+ofen*	02	11
+transgr*	08
+imora*	11
+moral*	11
+mau	11
+grav*	11
+certo	11
+corrig*	11
+louv*	11
+correto	11
+caracter*	11
+caráter	11
+personalidade	11
+nobr*	11
+cóneg*	09
+canon*	11
+cânon*	11
+lições	11
+lição	11
+exempl*	11
+irrepreens*	11
+bondo*	11
+bondad*	11
+bom	11
+bem*	11
+doutrin*	11
+val*	11
+princípio*	11
+étic*	11
